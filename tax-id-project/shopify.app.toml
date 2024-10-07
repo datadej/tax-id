@@ -1,0 +1,24 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "d2d4e48810a62726a93921b5b25d1d96"
+name = "tax-id-app"
+handle = "tax-id-app-5"
+application_url = "https://shopify.dev/apps/default-app-home"
+embedded = false
+
+[build]
+dev_store_url = "customer-id-at-checkout.myshopify.com"
+include_config_on_deploy = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = ""
+
+[auth]
+redirect_urls = [ "https://shopify.dev/apps/default-app-home/api/auth" ]
+
+[webhooks]
+api_version = "2024-07"
+
+[pos]
+embedded = false

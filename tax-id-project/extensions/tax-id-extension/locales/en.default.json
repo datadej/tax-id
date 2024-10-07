@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to the {{target}} extension!",
+  "iWouldLikeAFreeGiftWithMyOrder": "I would like to receive a free gift with my order",
+  "attributeChangesAreNotSupported": "Attribute changes are not supported in this checkout",
+  "taxIdLabel": "Tax ID (Fødselsnummer 11 siffer)",
+  "taxIdError": "Please provide a valid Tax ID of 11 digits",
+  "taxIdPlaceholder": "Fødselsnummer, 11 siffer",
+  "taxIdExplanation": "We require your tax ID because you are importing wine into Norway. Norwegian customs regulations mandate this information to process your shipment."
+}

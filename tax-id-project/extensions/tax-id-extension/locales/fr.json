@@ -1,0 +1,9 @@
+{
+  "welcome": "Bienvenue dans l'extension {{target}}!",
+  "iWouldLikeAFreeGiftWithMyOrder": "Je souhaite recevoir un cadeau gratuit avec ma commande",
+  "attributeChangesAreNotSupported": "Les modifications d'attribut ne sont pas prises en charge dans cette commande",
+  "taxIdLabel": "Skatte-ID (Fødselsnummer 11 siffer)",
+  "taxIdError": "Vennligst oppgi et gyldig fødselsnummer på 11 siffer",
+  "taxIdPlaceholder": "Fødselsnummer, 11 siffer",
+  "taxIdExplanation": "Vi trenger ditt skatte-ID fordi du importerer vin til Norge. Tollvesenet krever denne informasjonen for å behandle forsendelsen din."
+}
