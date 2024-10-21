@@ -4,7 +4,7 @@ client_id = "d2d4e48810a62726a93921b5b25d1d96"
 name = "tax-id-app"
 handle = "tax-id-app-5"
 application_url = "https://shopify.dev/apps/default-app-home"
-embedded = false
+embedded = true
 
 [build]
 dev_store_url = "customer-id-at-checkout.myshopify.com"
